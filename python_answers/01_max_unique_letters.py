@@ -37,4 +37,5 @@ def maxunique(listx):
 
 if __name__ == "__main__":
     listx = ['apple', 'banana', 'carrot', 'pear']
+    print(numuniqueletters(listx[0]))
     print(maxunique(listx))
